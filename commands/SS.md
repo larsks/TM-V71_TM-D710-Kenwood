@@ -1,4 +1,4 @@
-__S-meter squelch__
+# S-meter squelch
 
 Set:
 

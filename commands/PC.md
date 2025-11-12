@@ -1,4 +1,4 @@
-__Set/Read the output power__
+# Set/Read the output power
 
 Set the output power:
 

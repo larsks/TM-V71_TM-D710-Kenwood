@@ -1,4 +1,4 @@
-__Radio Type__
+# Radio Type
 
 Get radio type:
 

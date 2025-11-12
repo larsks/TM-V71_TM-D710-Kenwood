@@ -1,4 +1,4 @@
-__Transmit tone set by BT command__
+# Transmit tone set by BT command
 
 Set:
 

@@ -1,4 +1,4 @@
-__Set/Read burst tone__
+# Set/Read burst tone
 
 
 Set:

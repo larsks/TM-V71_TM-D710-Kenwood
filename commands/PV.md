@@ -1,4 +1,4 @@
-__Programmable VFO__
+# Programmable VFO
 
 Set:
 

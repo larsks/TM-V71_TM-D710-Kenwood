@@ -1,4 +1,4 @@
-__Radio Model__
+# Radio Model
 
 Get radio model:
 

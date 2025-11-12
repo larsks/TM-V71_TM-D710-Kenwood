@@ -1,4 +1,4 @@
-__Set/Read APRS beacon type__
+# Set/Read APRS beacon type
 
 
 Togle the APRS beacon type:

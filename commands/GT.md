@@ -1,4 +1,4 @@
-__Read internal GPS mode__
+# Read internal GPS mode
 
 Get GPS mode:
 

@@ -1,4 +1,4 @@
-__Set/Read the squelch status__
+# Set/Read the squelch status
 
 Read the squelch status:
 

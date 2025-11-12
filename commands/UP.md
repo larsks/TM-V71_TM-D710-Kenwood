@@ -1,4 +1,4 @@
-__Emulate The Up Key__
+# Emulate The Up Key
 
 One step up:
 

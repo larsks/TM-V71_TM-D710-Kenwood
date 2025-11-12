@@ -1,4 +1,4 @@
-__Read the serialnumber__
+# Read the serialnumber
 
 Get the serialnumber:
 

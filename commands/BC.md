@@ -1,4 +1,4 @@
-__Set/Read PTT and CTRL band__
+# Set/Read PTT and CTRL band
 
 Set PTT/CTRL band:
 

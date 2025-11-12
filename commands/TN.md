@@ -1,4 +1,4 @@
-__Set/Read the TNC mode__
+# Set/Read the TNC mode
 
 Set TNC:
 

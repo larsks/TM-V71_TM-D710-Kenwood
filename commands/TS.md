@@ -1,2 +1,2 @@
-__TNC control2__
+# TNC control2
 

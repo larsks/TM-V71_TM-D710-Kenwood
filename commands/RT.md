@@ -1,4 +1,4 @@
-__Set/Read the time__
+# Set/Read the time
 
 Set the time:
 

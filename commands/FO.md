@@ -1,4 +1,4 @@
-__Set/Read the VFO channel__
+# Set/Read the VFO channel
 
 Set the VFO channel:
 

@@ -1,4 +1,4 @@
-__Set/Read radio/GPS mode__
+# Set/Read radio/GPS mode
 
 # needs verification - TM-D710G only?
 

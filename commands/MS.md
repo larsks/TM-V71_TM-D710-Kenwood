@@ -1,4 +1,4 @@
-__Set/Read power on text__
+# Set/Read power on text
 
 Set:
 

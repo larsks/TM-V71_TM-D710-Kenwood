@@ -1,4 +1,4 @@
-__Reset__
+# Reset
 
 Reset the radio:
 

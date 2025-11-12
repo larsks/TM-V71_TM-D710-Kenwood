@@ -1,4 +1,4 @@
-__Set/Read the squelch__
+# Set/Read the squelch
 
 Set the squelch:
 

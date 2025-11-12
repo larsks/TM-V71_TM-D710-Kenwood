@@ -1,4 +1,4 @@
-__Set/Read memory VFO mode__
+# Set/Read memory VFO mode
 
 Set memory/VFO mode:
 

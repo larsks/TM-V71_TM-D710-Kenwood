@@ -1,4 +1,4 @@
-__Set/Read internal GPS mode__
+# Set/Read internal GPS mode
 
 TM-D710G only?
 

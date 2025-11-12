@@ -1,4 +1,4 @@
-__DTMF radio has to be in TX__
+# DTMF radio has to be in TX
 
 Set:
 

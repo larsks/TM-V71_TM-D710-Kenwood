@@ -1,4 +1,4 @@
-__Set/Read the memory channel__
+# Set/Read the memory channel
 
 
 Set the memory channel:

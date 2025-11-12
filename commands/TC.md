@@ -1,4 +1,4 @@
-__TNC control__
+# TNC control
 
 Set:
 

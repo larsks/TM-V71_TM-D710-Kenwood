@@ -1,4 +1,4 @@
-__Channel status__
+# Channel status
 
 Set:
 

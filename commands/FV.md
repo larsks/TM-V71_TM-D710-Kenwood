@@ -1,4 +1,4 @@
-__Radio Firmware__
+# Radio Firmware
 
 Get radio firmware:
 

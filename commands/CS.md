@@ -1,4 +1,4 @@
-__Set/Read the callsign__
+# Set/Read the callsign
 
 Set callsign:
 
