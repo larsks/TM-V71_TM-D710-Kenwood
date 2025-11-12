@@ -1,19 +1,34 @@
-# Set/Read the squelch status
+## BY -- Set/Read the squelch status
 
-Read the squelch status:
+### Set
 
-	BY n
-	
-n: 0: band A, 1: band B
+```
+BY p1,p2
+```
 
-Returns: x
+### Get
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
+```
+BY p1
+```
 
-|x|Squelch status|
-|---|---|
-|0|closed
-|1|open
+Returns: `p1,p2`
+
+### Parameters
+
+| p1 | Band   |
+| -- | ------ |
+| 0  | Band A |
+| 1  | Band B |
+
+| p2 | Squelch status |
+| -- | -------------- |
+| 0  | closed         |
+| 1  | open           |
+
+### Example
+
+```
+> BY 0
+< BY 0,0
+```

@@ -1,10 +1,11 @@
-# Set radio in TX mode
+## TX -- Set radio in TX mode
+
+### Set
 
 Set the radio in TX:
 
-	TX
+    TX
 
 Set the radio in RX:
 
-	RX
-	
+    RX

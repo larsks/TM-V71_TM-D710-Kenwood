@@ -1,17 +1,18 @@
-# Channel status
+## CD -- Channel status
 
-Set:
+### Set
 
-	CD p1
+    CD p1
 
-Get:
+### Get
 
-	CD
+    CD
 
 returns: p1
 
+### Parameters
+
 | p1 | function       |
-|----|----------------|
+| -- | -------------- |
 | 0  | Frequency mode |
 | 1  | Channel mode   |
-

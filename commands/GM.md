@@ -1,18 +1,23 @@
-# Set/Read radio/GPS mode
+## GM -- Set/Get radio/GPS mode
 
-# needs verification - TM-D710G only?
+### Set
 
-Set radio/GPS mode:
+    GM p1
 
-	GM x
+### Get
 
-Get radio/GPS mode:
+    GM
 
-	GM
+Returns: p1
 
-Returns: x
-	
-|x|function|
-|---|---|
-|0|Radio and internal GPS
-|1|Radio off and internal GPS on
+### Parameters
+
+| p1 | function                      |
+| -- | ----------------------------- |
+| 0  | Radio and internal GPS        |
+| 1  | Radio off and internal GPS on |
+
+### Notes
+
+- Needs verification - TM-D710G only?
+

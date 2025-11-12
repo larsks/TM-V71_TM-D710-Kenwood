@@ -1,22 +1,18 @@
-# Dual Band Mode/Single Band Mode
+## DL -- Dual Band Mode/Single Band Mode
 
-Set dual band:
+### Set
 
-	DL 0
+    DL mode
 
-Set single band:
+### Get
 
-	DL 1
-	
-Read:
+    DL
 
-	DL
-	
-Returns: x
+Returns: mode
 
-[Band](/tables/band.md)
+### Parameters
 
-|code|function|
-|---|---|
-|0|Dual band
-|1|Single band
+| mode | function    |
+| ---- | ----------- |
+| 0    | Dual band   |
+| 1    | Single band |

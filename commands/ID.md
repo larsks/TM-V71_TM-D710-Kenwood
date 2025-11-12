@@ -1,7 +1,7 @@
-# Radio Model
+## ID -- Radio Model
 
 Get radio model:
 
-	ID
+    ID
 
 Returns: radio ID

@@ -1,18 +1,22 @@
-# Set/Read power on text
+## MS -- Set/Read power on text
 
-Set:
+### Set
 
-	MS p1
+    MS p1
 
-Get:
+### Get
 
-	MS
+    MS
 
 returns: p1
 
-|p1|function|
-|---|---|
-|nnnnnn|Up to 6 characters TM-V71
-|nnnnnnnn|Up to 8 characters TM-D710
+### Parameters
 
-# must be uppercase for TM-V71
+| p1       | function                   |
+| -------- | -------------------------- |
+| nnnnnn   | Up to 6 characters TM-V71  |
+| nnnnnnnn | Up to 8 characters TM-D710 |
+
+### Notes
+
+- Must be uppercase for TM-V71.

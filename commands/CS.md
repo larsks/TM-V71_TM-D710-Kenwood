@@ -1,13 +1,15 @@
-# Set/Read the callsign
+## CS -- Set/Get the callsign
 
-Set callsign:
+### Set
 
-	CS callsign
+    CS callsign
 
-Read the callsign:
+### Get
 
-	CS
-	
+    CS
+
 Returns: the callsign
 
-# Control head
+### Notes
+
+- Not on TM-V71

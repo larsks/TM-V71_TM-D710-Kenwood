@@ -1,4 +1,4 @@
-# TM-V71 programming mode
+# Programming mode
 
 Conventions used in this document:
 

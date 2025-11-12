@@ -1,16 +1,22 @@
-# Read the serialnumber
+## AE -- Get the serial number
 
-Get the serialnumber:
+### Get
 
-	AE
+```
+AE
+```
 
-Radio:
+- Radio:
 
-Returns: serialnumber, model
+  Returns: serial number, model
 
+- Display:
 
-Display:
+  Returns gibberish
 
-Returns giberish
+### Example
 
-
+```
+> AE
+< AE 12345678,011
+```

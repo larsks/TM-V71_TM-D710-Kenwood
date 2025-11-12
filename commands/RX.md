@@ -1,7 +1,5 @@
-# Set radio in RX mode
+## RX -- Set radio in RX mode
 
 Set the radio in RX:
 
-	RX
-
-	
+    RX

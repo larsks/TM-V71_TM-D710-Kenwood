@@ -1,24 +1,24 @@
-# Set/Read the TNC mode
+## TN -- Set/Read the TNC mode
 
 Set TNC:
 
-	TN p1,p2
+    TN p1,p2
 
 Read the TNC mode:
 
-	TN
-	
+    TN
+
 Returns: p1,p2
 
-|p1|function
-|---|---|
-|0|off
-|1|aprs
-|2|tnc
+| p1 | function |
+| -- | -------- |
+| 0  | off      |
+| 1  | aprs     |
+| 2  | tnc      |
 
-|p2|function
-|---|---|
-|0|Band A
-|1|Band B
-|2|Band A TX, Band B RX
-|3|Band B TX, band A RX
+| p2 | function             |
+| -- | -------------------- |
+| 0  | Band A               |
+| 1  | Band B               |
+| 2  | Band A TX, Band B RX |
+| 3  | Band B TX, band A RX |

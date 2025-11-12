@@ -1,23 +1,26 @@
-# Set/Read Memory name
+## MN -- Set/Read Memory name
 
-Set:
+### Set
 
-	MN p1,p2
+    MN p1,p2
 
-Get:
+### Get
 
-	MN p1
+    MN p1
 
 returns: p1,p2
 
-|p1|function|
-|---|---|
-|nnn|Memory channel number 3 digit
+### Parameters
 
-|p2|function|
-|---|---|
-|nnnnnn|Up to 6 characters TM-V71
-|nnnnnnnn|Up to 8 characters TM-D710
+| p1  | function                      |
+| --- | ----------------------------- |
+| nnn | Memory channel number 3 digit |
 
-# must be uppercase for TM-V71
+| p2       | function                   |
+| -------- | -------------------------- |
+| nnnnnn   | Up to 6 characters TM-V71  |
+| nnnnnnnn | Up to 8 characters TM-D710 |
 
+### Notes
+
+- Must be uppercase for TM-V71.

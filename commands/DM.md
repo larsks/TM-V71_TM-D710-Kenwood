@@ -1,21 +1,21 @@
-# DTMF memory
+## DM -- DTMF memory
 
-Set:
+### Set
 
-	DM p1,p2
+    DM p1,p2
 
-Get:
+### Get
 
-	DM p1
+    DM p1
 
 returns: p1,p2
 
-|p1|function
-|---|---|
-|0-9|DTMF channel 0-9
+### Parameters
 
-|p2|function
-|---|---|
-|nnnnnnnnnnnnnnnn|DTMF code 16 digits.For codes with fever digits, replace the remaning digits with SPACE
+| p1  | function         |
+| --- | ---------------- |
+| 0-9 | DTMF channel 0-9 |
 
-
+| p2               | function                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------- |
+| nnnnnnnnnnnnnnnn | DTMF code 16 digits. For codes with fewer digits, replace the remaining digits with SPACE |

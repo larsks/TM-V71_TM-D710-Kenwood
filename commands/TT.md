@@ -1,10 +1,9 @@
-# Transmit tone set by BT command
+## TT -- Transmit tone set by BT command
 
 Set:
 
-	TT
+    TT
 
 Stop:
 
-	TT
-
+    TT

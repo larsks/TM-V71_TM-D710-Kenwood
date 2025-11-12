@@ -1,22 +1,22 @@
-# Set/Read the squelch
+## SQ -- Set/Read the squelch
 
 Set the squelch:
 
-	SQ p1,p2
+    SQ p1,p2
 
 Read the squelch:
 
-	SQ p1
-	
+    SQ p1
+
 n: 0: band A, 1: band B
 
 Returns: x
 
-|p1|Band|
-|---|---|
-|0|Band A
-|1|Band B
+| p1 | Band   |
+| -- | ------ |
+| 0  | Band A |
+| 1  | Band B |
 
-|p2|Squelch|
-|---|---|
-|00|00 to 1F
+| p2 | Squelch  |
+| -- | -------- |
+| 00 | 00 to 1F |

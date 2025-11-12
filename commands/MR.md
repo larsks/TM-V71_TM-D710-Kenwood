@@ -1,13 +1,13 @@
-# Set/Read the memory channel
+## MR -- Set/Read the memory channel
 
 Set the memory channel:
 
-	MR n,nnn
+    MR n,nnn
 
 Read the memory channel:
 
-	MR n
-	
+    MR n
+
 Returns: nnn
 
 Returns: N if no memory or not in memory mode
@@ -16,8 +16,7 @@ memory channel number (3 digit)
 
 [Band](/tables/band.md)
 
-|n|Band|
-|---|---|
-|0|Band A
-|1|Band B
-
+| n | Band   |
+| - | ------ |
+| 0 | Band A |
+| 1 | Band B |

@@ -1,24 +1,27 @@
-# Set/Read internal GPS mode
+## GP -- Set/Get internal GPS mode
 
-TM-D710G only?
+### Set
 
-Set GPS mode:
+    GP p1,p2
 
-	GP p1, p2
+### Get
 
-Get GPS mode:
+    GP
 
-	GP
+Returns: p1,p2
 
-Returns: p1, p2
-	
-|p1|function|
-|---|---|
-|0|off
-|1|on
+### Parameters
 
-|p2|function|
-|---|---|
-|0|iGPS
-|1|iGPS and data out
+| p1 | function |
+| -- | -------- |
+| 0  | off      |
+| 1  | on       |
 
+| p2 | function          |
+| -- | ----------------- |
+| 0  | iGPS              |
+| 1  | iGPS and data out |
+
+### Notes
+
+- TM-D710G only?
