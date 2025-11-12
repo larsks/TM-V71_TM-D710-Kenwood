@@ -1,23 +1,70 @@
-__Menu__
+# Menu
 
-Set:
+## Set
 
 	MU p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23,p24,p25,p26,p27,p28,p29,p30,p31,p32,p33,p34,p35,p36,p37,p38,p39,p40,p41
 
-Get:
+| Param | Description              |
+| ----- | ------------------------ |
+| p1    | Beep                     |
+| p2    | Beep volume              |
+| p3    | External speaker mode    |
+| p4    | Announce                 |
+| p5    | Language                 |
+| p6    | Voice volume             |
+| p7    | Voice speed              |
+| p8    | Playback repeat          |
+| p9    | Playback repeat interval |
+| p10   | Continuous recording     |
+| p11   | VHF AIP                  |
+| p12   | UHF AIP                  |
+| p13   | S-meter SQL hang time    |
+| p14   | Mute hang time           |
+| p15   | Beatshift                |
+| p16   | Timeout timer            |
+| p17   | Recall method            |
+| p18   | Echolink speed           |
+| p19   | DTMF hold                |
+| p20   | DTMF speed               |
+| p21   | DTMF pause               |
+| p22   | DTMF key lock            |
+| p23   | Auto repeater offset     |
+| p24   | 1750Hz hold              |
+| p25   | Unknown                  |
+| p26   | Brightness level         |
+| p27   | Auto brightness          |
+| p28   | Backlight colour         |
+| p29   | PF1 key                  |
+| p30   | PF2 key                  |
+| p31   | Mic PF1 key              |
+| p32   | Mic PF2 key              |
+| p33   | Mic PF3 key              |
+| p34   | Mic PF4 key              |
+| p35   | Mic key lock             |
+| p36   | Scan resume              |
+| p37   | APO                      |
+| p38   | Data band                |
+| p39   | Data speed               |
+| p40   | SQC source               |
+| p41   | Auto PM store            |
+| p42   | Display partition bar    |
+
+## Get
 
 	MU
+
+## Parameters
 
 |p1|Beep
 |---|---|
 |0|off
 |1|on
 
-|p2|cbeep volume
+|p2|Beep volume
 |---|---|
 |0-7|0: min 7: max
 
-|p3|external speaker mode
+|p3|External speaker mode
 |---|---|
 |0|
 |1|
@@ -29,7 +76,7 @@ Get:
 |1|auto
 |2|manual
 
-|p5|language
+|p5|Language
 |---|---|
 |0|English
 |1|Japanese
